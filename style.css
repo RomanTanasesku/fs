@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://cdn1.epicgames.com/offer/e97659b501af4e3981d5430dad170911/EGS_HogwartsLegacy_AvalancheSoftware_S1_2560x1440-2baf3188eb3c1aa248bcc1af6a927b7e) ;
+}
+.header__title{
+    width: 600px;
+    height: 150px;
+    background-color: #fff;
+    margin: 70px auto;
+    text-align: center;
+    color: #e0c423;
+    border-radius:30px;
+}
+h1{
+    margin: 40px;
+}
+.video{
+    width: 660px;
+    height: 450px; border: 1px solid #ffffff;
+    margin: 0 auto;
+}
